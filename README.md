@@ -10,7 +10,7 @@ Code
 
 ```ruby
 vm_name = $evm.root[:dialog_vm_name]
-````
+```
 
 
 ### test
