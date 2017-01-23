@@ -6,4 +6,11 @@ This document describes VM provisioning in CloudFroms
 
 ## test
 
+Code
+
+```ruby
+vm_name = $evm.root[:dialog_vm_name]
+````
+
+
 ### test
